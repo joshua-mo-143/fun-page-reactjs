@@ -1,6 +1,6 @@
 import React , {useContext} from 'react'
 import {Link} from 'react-router-dom'
-import { Square } from '../assets/square';
+import { Square } from '../assets/Square';
 import { login } from '../login';
 import { userContext } from '../userContext';
 
